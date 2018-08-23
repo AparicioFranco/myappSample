@@ -110,7 +110,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Mid">
+    <configuration name="Mid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mid" />
+      <module name="Git" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration name="This" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="This" />
       <module name="Git" />
@@ -157,8 +162,13 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.This" />
+      <item itemvalue="Application.Mid" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mid" />
         <item itemvalue="Application.This" />
       </list>
     </recent_temporary>
